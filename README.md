@@ -1,3 +1,3 @@
 # CutTheVerlet
 
-Jogo baseado em cut the hope
+Jogo baseado em cut the rope
